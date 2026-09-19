@@ -1,0 +1,4 @@
+# Optional model stack for a future learned detector.
+ultralytics>=8.2
+torch>=2.2
+torchvision>=0.17
